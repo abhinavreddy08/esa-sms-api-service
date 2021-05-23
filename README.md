@@ -30,13 +30,13 @@ $ node server.js
 A key named ```app-secret``` must be passed with the value ```Bearer 18528``` in the headers for each request for successful authorization.
 
 ## APIs and their behavior
-The api behaviour is mentioned in '''ESA Assignment 4.pdf''',All the corner cases are implemented.
+The api behaviour is mentioned in ```ESA Assignment 4.pdf```,All the corner cases are implemented.
 
 ## Validations
 Basic unit tests are written for all the existing functions using Mocha and Chai which can be viewed in the ```/test/sms.js``` file.
 
-##Connecting service through heroku
-You can use the sms-api-service with Postman Using Heroku.The Heroku service link in mentioned in '''Heroku.txt'''
+## Connecting service through heroku
+You can use the sms-api-service with Postman Using Heroku.The Heroku service link in mentioned in ```Heroku.txt```
 
 
 
