@@ -18,7 +18,7 @@ Tech stack used – Node js , Express and MongoDB.
 
 ## Instructions to setup locally
 ### Installing modules
-- Run the following commands in your terminal after downloading  :
+- Run the following commands in your terminal to run this project :
 ```bash
 $git clone https://github.com/abhinavreddy08/esa-sms-api-service.git
 $ cd esa-sms-api-service
