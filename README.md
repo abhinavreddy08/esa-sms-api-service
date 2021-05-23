@@ -9,6 +9,7 @@ Tech stack used – Node js , Express and MongoDB.
 ## Table of contents
 * [Instructions to setup locally](#instructions-to-setup-locally)
     * [Installing modules](#installing-modules)
+* [Authentication](#Authetntication)
 * [APIs and their behavior](#apis-and-their-behavior)
 * [Validations](#validations)
 * [Connecting service through heroku](#Connecting-service-through-heroku)
@@ -26,7 +27,7 @@ $ npm install
 $ node server.js
 ```
 
-###### Note
+## Authentication
 A key named ```app-secret``` must be passed with the value ```Bearer 18528``` in the headers for each request for successful authorization.
 
 ## APIs and their behavior
