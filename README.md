@@ -1,7 +1,7 @@
 # SMS Microservice
 
 
-This is a simple API service that exposes the following 2 APIs that accepts JSON data as input. Use only POST HTTOP method.If the API request is sent using any other HTTP method apart from POST, return HTTP 405.
+This is a simple API service that exposes the following 2 APIs that accepts JSON data as input. Use only POST HTTP method.If the API request is sent using any other HTTP method apart from POST, return HTTP 405.
 
 Tech stack used – Node js , Express and MongoDB.
 
@@ -11,7 +11,7 @@ Tech stack used – Node js , Express and MongoDB.
     * [Installing modules](#installing-modules)
 * [APIs and their behavior](#apis-and-their-behavior)
 * [Validations](#validations)
-*[Connecting service through heroku](#Connecting-service-through-heroku)
+* [Connecting service through heroku](#Connecting-service-through-heroku)
 
 
 
